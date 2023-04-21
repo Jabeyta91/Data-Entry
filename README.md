@@ -3,7 +3,7 @@
 </p>
 
 <h1>Data Visualization</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
+This tutorial outlines the prerequisites and installation of the data into microsoft excel.<br />
 
 
 
